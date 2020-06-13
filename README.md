@@ -25,3 +25,5 @@ classification, extraction methods, etc.
 6.3. Lineer Regression  
 6.4. KNN  
 6.5. Random Forest  
+## **Contributors**. 
+[Pınar Kaya](https://github.com/PinarKaya)
